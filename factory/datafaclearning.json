@@ -1,0 +1,9 @@
+{
+	"name": "datafaclearning",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c6be2db6-db43-4058-8df7-712d01fd1acc",
+		"tenantId": "abc7b3b4-0474-4c36-8f68-7f18035fed58"
+	}
+}
